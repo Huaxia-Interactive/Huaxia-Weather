@@ -1,4 +1,4 @@
-Huaxia Weather
+# Huaxia Weather
 
 A global weather application providing hourly reports and convenient access to weather information.
 
