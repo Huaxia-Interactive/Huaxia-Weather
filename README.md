@@ -24,5 +24,5 @@ Instructions
 2. View hourly weather data, including temperature, UV index, etc.
 3. Use the shortcuts for popular cities for quick access.
 
-License
+License:
 Under MIT License
